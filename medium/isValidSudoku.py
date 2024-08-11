@@ -20,9 +20,6 @@ class Solution:
         return True
 
 #%%
-row_sets = [set() for _ in range(9)]
-
-row_sets[0].add(1)
-row_sets
+5//3
 
 #%%
